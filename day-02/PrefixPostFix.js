@@ -5,4 +5,4 @@ let c = ++a + b++;
 console.log(c);
 if (typeof c === "number") {
     console.log('true');
-}
+  }
